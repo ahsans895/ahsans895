@@ -4,22 +4,32 @@
 
 <h3 align="left" dir="auto">You can connect with me:</h3>
 <p>
-    <a href="https://www.linkedin.com/in/ahsan-sheikh-809812117" rel="nofollow">
+    <a href="https://www.linkedin.com/in/ahsan-sheikh-809812117" rel="nofollow" style="text-decoration: none;">
         <img align="center"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="ahsan ali" height="20" width="55" >
+            alt="ahsan ali" height="20" width="55">
     </a>
-    <a href="https://www.hackerrank.com/ahsans895" rel="nofollow">
+    <a href="https://www.hackerrank.com/ahsans895" rel="nofollow" style="text-decoration: none;">
         <img align="center"
             src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
             alt="ahsan ali" height="20" width="55">
     </a>
-    <a href="mailto:email@example.com">
+    <a href="mailto:email@example.com" style="text-decoration: none;">
         <img align="center"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             alt="ahsan ali" height="20" width="55">
     </a>
 </p>
+
+<hr/>
+
+<ul align="left">
+    <li>🔭 I’m currently working on <strong><a href="https://svelte.dev">Svelte</a></strong></li>
+    <li>📫 You can reach me at <strong><a href="mailto:email@example.com">ahsans895@gmail.com</a></strong></li>
+    <li>💬 Ping me about <strong>Mean|Mern|Mevn | Laravel | PHP</strong></li>
+    <li>👨‍💻 Read more about me<strong><a href="https://www.linkedin.com/in/ahsan-sheikh-809812117">Linkedin</a></strong></li>
+    <li>📙 Check out my <strong><a href="https://docs.google.com/document/d/1ZyriP785_jejysJX4S9HP_uY_eeYzhXMMa9tcOQnfyM/edit#heading=h.w5bmpx157f3t">Resume</a></strong></li>
+</ul>
 
 <table>
     <tbody>
