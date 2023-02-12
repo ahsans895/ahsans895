@@ -34,153 +34,302 @@
 <table>
     <tbody>
         <tr>            
-            <td>
-                <h3>Things I code with</h3>
+            <td border="0">
+                <h3>Hands on with:</h3>
                 <p align="left" dir="auto">
-                    <a href="https://angular.io" rel="nofollow"> 
-                        <img src="https://camo.githubusercontent.com/9eecc42439347332f256a326363924551042f5b96235f972982512199476611a/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667" alt="angular" width="40" height="40" data-canonical-src="https://angular.io/assets/images/logos/angular/angular.svg" style="max-width: 100%;"> 
+                    <img src="https://img.shields.io/badge/!frontend-white?style=for-the-badge" alt="frontend">
+                    <a href="https://angular.io" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/angular" alt="angular" width="30" height="30">
                     </a>
-                    <a href="https://getbootstrap.com" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                            alt="bootstrap" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://getbootstrap.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/vue.js" alt="VueJS" width="30" height="30">
                     </a>
-                    <a href="https://www.chartjs.org" rel="nofollow">
-                        <img src="https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667"
-                            alt="chartjs" width="40" height="40" data-canonical-src="https://www.chartjs.org/media/logo-title.svg"
-                            style="max-width: 100%;">
+                    <a href="https://www.chartjs.org" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/vuetify" alt="Vuetify" width="30" height="30">
                     </a>
-                    <a href="https://www.w3schools.com/css/" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                            alt="css3" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://www.w3schools.com/css/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/svelte" alt="Svelte" width="30" height="30">
                     </a>
-                    <a href="https://www.docker.com/" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                            alt="docker" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://www.docker.com/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/react" alt="ReactJS" width="30" height="30">
                     </a>
-                    <a href="https://www.elastic.co" rel="nofollow">
-                        <img src="https://camo.githubusercontent.com/d4cbacdc000de378e0dcae3b5ee54923c0ad04f6e52b7aa886a748fba5578def/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f656c61737469632f656c61737469632d69636f6e2e737667"
-                            alt="elasticsearch" width="40" height="40"
-                            data-canonical-src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" style="max-width: 100%;">
+                    <a href="https://www.elastic.co" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/redux" alt="Redux" width="30" height="30">
                     </a>
-                    <a href="https://expressjs.com" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                            alt="express" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://expressjs.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/reactrouter" alt="React Router" width="30" height="30">
                     </a>
-                    <a href="https://firebase.google.com/" rel="nofollow">
-                        <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667"
-                            alt="firebase" width="40" height="40"
-                            data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;">
+                    <a href="https://firebase.google.com/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/nestjs" alt="nest JS" width="30" height="30">
                     </a>
-                    <a href="https://cloud.google.com" rel="nofollow">
-                        <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667"
-                            alt="gcp" width="40" height="40"
-                            data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-                            style="max-width: 100%;">
+                    <a href="https://cloud.google.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/nextdotjs" alt="gcp" width="30" height="30">
                     </a>
-                    <a href="https://git-scm.com/" rel="nofollow">
-                        <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"
-                            alt="git" width="40" height="40"
-                            data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
+                    <a href="https://git-scm.com/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/chartdotjs" alt="git" width="30" height="30">
                     </a>
-                    <a href="https://graphql.org" rel="nofollow">
-                        <img src="https://camo.githubusercontent.com/07c382b68200c1a86d52d1682346e73e038b2f160c9afbc0af773fb3646882c8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6772617068716c2f6772617068716c2d69636f6e2e737667"
-                            alt="graphql" width="40" height="40"
-                            data-canonical-src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="max-width: 100%;">
+                    <img src="https://img.shields.io/badge/!backend-white?style=for-the-badge" alt="backend">
+                    <a href="https://graphql.org" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node JS" width="30" height="30">
                     </a>
-                    <a href="https://heroku.com" rel="nofollow">
-                        <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667"
-                            alt="heroku" width="40" height="40"
-                            data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;">
+                    <a href="https://heroku.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/express" alt="Express JS" width="30" height="30">
                     </a>
-                    <a href="https://www.w3.org/html/" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                            alt="html5" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://www.w3.org/html/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/fastify" alt="Fastify JS" width="30" height="30">
                     </a>
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                            alt="javascript" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/php" alt="PHP" width="30" height="30">
                     </a>
-                    <a href="https://www.elastic.co/kibana" rel="nofollow">
-                        <img src="https://camo.githubusercontent.com/dbc1482101cfa71adf795a200aa1b832d4ccbba9719b2d6e91a67192caf45d75/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f656c6173746963636f5f6b6962616e612f656c6173746963636f5f6b6962616e612d69636f6e2e737667"
-                            alt="kibana" width="40" height="40"
-                            data-canonical-src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"
-                            style="max-width: 100%;">
+                    <a href="https://www.elastic.co/kibana" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/laravel" alt="Laravel" width="30" height="30">
                     </a>
-                    <a href="https://www.linux.org/" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-                            width="40" height="40" style="max-width: 100%;">
+                    <a href="https://www.linux.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/codeigniter" alt="Codeigniter" width="30" height="30">
                     </a>
-                    <a href="https://materializecss.com/" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-                            alt="materialize" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://materializecss.com/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://img.shields.io/badge/YII2-gray?style=for-the-badge" alt="YII 2" width="30" height="30">
                     </a>
-                    <a href="https://www.mongodb.com/" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                            alt="mongodb" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://www.mongodb.com/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/symfony" alt="Symfony" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!core-white?style=for-the-badge" alt="core">
+                    <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/html5" alt="Html 5" width="30" height="30">
                     </a>
-                    <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow">
-                        <img src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667"
-                            alt="mssql" width="40" height="40"
-                            data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-                            style="max-width: 100%;">
+                    <a href="https://www.mysql.com/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/css3" alt="CSS 3" width="30" height="30">
                     </a>
-                    <a href="https://www.mysql.com/" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                            alt="mysql" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://nextjs.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/javaScript" alt="JavaScript" width="30"
+                            height="30">
                     </a>
-                    <a href="https://nextjs.org/" rel="nofollow">
-                        <img src="https://camo.githubusercontent.com/3aa42ee93eafa8f736bac662e8ca536350dad790ba36f2f0cb1783aa2be42f6d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667"
-                            alt="nextjs" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-                            style="max-width: 100%;">
+                    <a href="https://nodejs.org" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/jQuery" alt="jQuery" width="30" height="30">
                     </a>
-                    <a href="https://nodejs.org" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                            alt="nodejs" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://www.oracle.com/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/typescript" alt="Typescript" width="30"
+                            height="30">
                     </a>
-                    <a href="https://www.oracle.com/" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-                            alt="oracle" width="40" height="40" style="max-width: 100%;">
+                    <img src="https://img.shields.io/badge/!ELK-white?style=for-the-badge" alt="ELK">
+                    <a href="https://www.postgresql.org" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/elasticsearch" alt="Elasticsearch" width="30"
+                            height="30">
                     </a>
-                    <a href="https://www.postgresql.org" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                            alt="postgresql" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://postman.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/kibana" alt="Kibana" width="30" height="30">
                     </a>
-                    <a href="https://postman.com" rel="nofollow">
-                        <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"
-                            alt="postman" width="40" height="40"
-                            data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-                            style="max-width: 100%;">
+                    <a href="https://www.python.org" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/logstash" alt="Logstash" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!Cloud-white?style=for-the-badge" alt="Cloud">
+                    <a href="https://reactjs.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/amazonaws" alt="Amazon AWS" width="30" height="30">
                     </a>
-                    <a href="https://www.python.org" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                            alt="python" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://redux.js.org" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud" width="30" height="30">
                     </a>
-                    <a href="https://reactjs.org/" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                            alt="react" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/huawei" alt="Huawei Cloud" width="30" height="30">
                     </a>
-                    <a href="https://redux.js.org" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-                            width="40" height="40" style="max-width: 100%;">
+                    <a href="https://www.sqlite.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare" width="30" height="30">
                     </a>
-                    <a href="https://sass-lang.com" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-                            width="40" height="40" style="max-width: 100%;">
+                    <a href="https://www.sqlite.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/elasticcloud" alt="Elastic Cloud" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!Databases-white?style=for-the-badge" alt="Databases">
+                    <a href="https://reactjs.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/mysql" alt="Mysql" width="30" height="30">
                     </a>
-                    <a href="https://www.sqlite.org/" rel="nofollow">
-                        <img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667"
-                            alt="sqlite" width="40" height="40"
-                            data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="max-width: 100%;">
+                    <a href="https://www.sqlite.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/mongoDB" alt="MongoDB" width="30" height="30">
                     </a>
-                    <a href="https://www.typescriptlang.org/" rel="nofollow">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                            alt="typescript" width="40" height="40" style="max-width: 100%;">
+                    <a href="https://www.sqlite.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="30" height="30">
+                    </a>
+                    <a href="https://www.sqlite.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/postgresql" alt="Postgresql" width="30" height="30">
+                    </a>
+                    <a href="https://www.sqlite.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/elasticsearch" alt="Elastic Search" width="30" height="30">
+                    </a>
+                    <a href="https://www.sqlite.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/apachecassandra" alt="Cassandra" width="30" height="30">
+                    </a>
+                    <a href="https://www.sqlite.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/oracle" alt="Oracle" width="30" height="30">
+                    </a>
+                    <a href="https://www.sqlite.org/" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/sqlite" alt="SQL Lite" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!Database Tools-white?style=for-the-badge" alt="Database Tools">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/mariaDB" alt="MariaDB" width="30" height="30">
+                    </a>                        
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://img.shields.io/badge/navicat-green?style=for-the-badge" alt="navicat" width="40" height="25">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://img.shields.io/badge/HeidiSQL-green?style=for-the-badge" alt="Heidi SQL" width="40" height="25">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/phpmyadmin" alt="phpmyadmin" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!Java-white?style=for-the-badge" alt="Java">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" width="30" height="30">
+                    </a>
+                    <span style="color: gray;">#Payment Gateway</span>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/paypal" alt="Paypal" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/mastercard" alt="Master Card" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!API Tools-white?style=for-the-badge" alt="API Tools">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/swagger" alt="Swagger" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!OS-white?style=for-the-badge" alt="OS">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/Ubuntu" alt="ubuntu" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/windows" alt="Windows" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/macos" alt="MacOS" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!Ecommerce-white?style=for-the-badge" alt="Ecommerce">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/magento" alt="magento" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/shopify" alt="Shopify" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/wordpress" alt="Wordpress" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://img.shields.io/badge/opencart-gray?style=for-the-badge" alt="Opencart"  width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/bigcommerce" alt="Big Commerce" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!Depency Manager-white?style=for-the-badge" alt="Depency Manager">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/npm" alt="NPM" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/yarn" alt="Yarn" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/composer" alt="Composer" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!Verson Control-white?style=for-the-badge" alt="Verson Control">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/github" alt="Github" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/bitbucket" alt="Bitbucket" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!Bash-white?style=for-the-badge" alt="Bash">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/gnubash" alt="gnubash" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/powershell" alt="Power Shell" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/windowsterminal" alt="windowsterminal" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/gnometerminal" alt="gnometerminal" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!devops-white?style=for-the-badge" alt="devops">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/apache" alt="Apache" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/nginx" alt="Nginx" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!Design-white?style=for-the-badge" alt="Design">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstap" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/babel" alt="Babel" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/webpack" alt="Webpack" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/materialdesign" alt="Material Design" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/fontawesome" alt="Font Awesome" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/sass" alt="sass" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!IDE-white?style=for-the-badge" alt="IDE">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/visualstudiocode" alt="Visual Studio Code" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/sublimetext" alt="Sublime Text 3" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/phpstorm" alt="PHPstorm" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/atom" alt="Atom" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/apachenetbeanside" alt="Apache Netbeans" width="30" height="30">
+                    </a>                    
+                    <img src="https://img.shields.io/badge/!Others-white?style=for-the-badge" alt="Others">
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/jsonwebtokens" alt="Json Web Token" width="30"
+                            height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/json" alt="Json" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://img.shields.io/badge/xml-gray?style=for-the-badge" alt="XML" width="30" height="25">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/nodered" alt="Node Red" width="30" height="30">
+                    </a>
+                    <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
+                        <img src="https://cdn.simpleicons.org/awslambda" alt="AWS Lambda" width="30"
+                            height="30">
                     </a>
                 </p>
             </td>
-            <td>
+            <td width="250" border="0">
                 <a href="https://app.daily.dev/ahsans895">
-                    <img src="https://github.com/ahsans895/ahsans895/blob/main/devcard.svg" width="400" alt="Ahsan Sheikh's Dev Card" />
+                    <img src="https://github.com/ahsans895/ahsans895/blob/main/devcard.svg" alt="Ahsan Sheikh's Dev Card" />
                 </a>
             </td>
         </tr>
