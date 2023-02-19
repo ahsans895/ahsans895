@@ -180,7 +180,7 @@
                     <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
                         <img src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" width="30" height="30">
                     </a>
-                    <span style="color: gray;">#Payment Gateway</span>
+                    <img src="https://img.shields.io/badge/!payment gateway-white?style=for-the-badge" alt="Payment Gateway">
                     <a href="https://sass-lang.com" rel="nofollow" style="text-decoration: none;">
                         <img src="https://cdn.simpleicons.org/paypal" alt="Paypal" width="30" height="30">
                     </a>
