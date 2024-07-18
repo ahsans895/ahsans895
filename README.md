@@ -24,10 +24,10 @@
 <hr/>
 
 <ul align="left">
-    <li>🔭 I’m currently working on <strong><a href="https://svelte.dev">Svelte</a></strong></li>
+<!--     <li>🔭 I’m currently working on <strong><a href="https://svelte.dev">Svelte</a></strong></li> -->
     <li>📫 You can reach me at <strong><a href="mailto:email@example.com">ahsans895@gmail.com</a></strong></li>
     <li>💬 Ping me about <strong>Mean|Mern|Mevn | Laravel | PHP</strong></li>
-    <li>👨‍💻 Read more about me<strong><a href="https://www.linkedin.com/in/ahsan-sheikh-809812117">Linkedin</a></strong></li>
+    <li>👨‍💻 Read more about me <strong><a href="https://www.linkedin.com/in/ahsan-sheikh-809812117">Linkedin</a></strong></li>
     <li>📙 Check out my <strong><a href="https://docs.google.com/document/d/1ZyriP785_jejysJX4S9HP_uY_eeYzhXMMa9tcOQnfyM/edit#heading=h.w5bmpx157f3t">Resume</a></strong></li>
 </ul>
 
